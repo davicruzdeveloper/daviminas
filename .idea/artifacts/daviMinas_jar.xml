@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="daviMinas:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/daviMinas_jar</output-path>
+    <root id="archive" name="daviMinas.jar">
+      <element id="module-output" name="daviMinas" />
+    </root>
+  </artifact>
+</component>
